@@ -9,6 +9,9 @@ Welcome to my Quality Assurance (QA) Portfolio, where I showcase my expertise in
 📝 Gorest_API_Scenario - https://github.com/finarizky/QA-Portfolio/blob/main/Scenario_Test/Gorest_API_Scenario.xlsx
 📝 Saucedemo_Scenario_Test - https://github.com/finarizky/QA-Portfolio/blob/main/Scenario_Test/Saucedemo_Scenario_Test.xlsx
 
+🔶 Automation Test
+📝 Restassured API Automation - https://github.com/finarizky/Restassured-API-Testing
+
 
 🪪 About Me
 
