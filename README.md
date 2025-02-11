@@ -10,7 +10,8 @@ Welcome to my Quality Assurance (QA) Portfolio, where I showcase my expertise in
 📝 Saucedemo_Scenario_Test - https://github.com/finarizky/QA-Portfolio/blob/main/Scenario_Test/Saucedemo_Scenario_Test.xlsx
 
 🔶 Automation Test
-📝 Restassured API Automation - https://github.com/finarizky/Restassured-API-Testing
+📝 Restassured TestNg Gorest API Automation - https://github.com/finarizky/Restassured-API-Testing
+📝 Selenium Cucumber Soucedemo Automation - https://github.com/finarizky/Soucedemo_Selenium_Automation
 
 
 🪪 About Me
