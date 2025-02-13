@@ -18,6 +18,8 @@ Welcome to my Quality Assurance (QA) Portfolio, where I showcase my expertise in
 
 📝 Selenium Cucumber Soucedemo Automation - https://github.com/finarizky/Soucedemo_Selenium_Automation
 
+📝 Cypress Soucedemo Automation - https://github.com/finarizky/Soucedemo_Cypress_Automation
+
 
 🪪 About Me
 
