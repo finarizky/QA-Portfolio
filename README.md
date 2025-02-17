@@ -11,6 +11,8 @@ Welcome to my Quality Assurance (QA) Portfolio, where I showcase my expertise in
 
 📝 Saucedemo_Scenario_Test - https://github.com/finarizky/QA-Portfolio/blob/main/Scenario_Test/Saucedemo_Scenario_Test.xlsx
 
+📝 Demoblaze_Scenario_Test - https://github.com/finarizky/QA-Portfolio/blob/main/Scenario_Test/Demoblaze_Scenario_Test.xlsx
+
 
 🔶 Automation Test
 
