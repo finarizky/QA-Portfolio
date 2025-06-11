@@ -22,6 +22,10 @@ Welcome to my Quality Assurance (QA) Portfolio, where I showcase my expertise in
 
 📝 Cypress Soucedemo Automation - https://github.com/finarizky/Soucedemo_Cypress_Automation
 
+📝 Simple Playwright - https://github.com/finarizky/Simple_Playwright
+
+📝 Simple Exact Macth + F1 Score with python - https://github.com/finarizky/Simple_Exact_Match_AI_Pyhton
+
 
 🪪 About Me
 
